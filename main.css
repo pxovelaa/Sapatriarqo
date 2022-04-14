@@ -4,8 +4,8 @@
 }
 
 body {
-    font-size: 32px;
     font-family: "mtavruli";
+    font-size: 32px;
     background-image: url(images/Background\ Pattern\ Stone.png);
     background-repeat: no-repeat;
     height: 100%;
@@ -133,7 +133,7 @@ body {
 }
 
 .big {
-    font-size: 220px;
+    font-size: 150px;
 }
 
 .stadioni {
