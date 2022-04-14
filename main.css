@@ -1,6 +1,11 @@
+@font-face {
+    font-family: "mtavruli";
+    src: url("/bpg_extrasquare_mtavruli.ttf");
+}
+
 body {
     font-size: 32px;
-    font-family: "BPG ExtraSquare Mtavruli", sans-serif;
+    font-family: "mtavruli";
     background-image: url(images/Background\ Pattern\ Stone.png);
     background-repeat: no-repeat;
     height: 100%;
@@ -93,7 +98,7 @@ body {
 .imgs :nth-child(5) {
     position: absolute;
     width: 60%;
-    right: 0;
+    right: -30px;
     z-index: -4;
 
 }
